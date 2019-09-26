@@ -26,3 +26,15 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.h4ckua11.Handwritee
+Name: Handwritee
+Version: 1.0.0
+Section: Apps
+Maintainer: h4ckua11 <h4ckua11@gmx.net>
+Architecture: iphoneos-arm
+Filename: debs/com.h4ckua11.Handwritee.deb
+Size: 84096
+MD5sum: 74e53404434c62e29294a876a62a937c
+Description: This is a sample new package. Firmware should be greater than 7.0
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
